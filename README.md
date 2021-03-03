@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 - Inicie o servidor com `yarn dev`
 
 Aplicação pode ser acessada em: 
-```shell script
-[`localhost:3333`](http://localhost:3333)
-```
+
+[localhost:3333](http://localhost:3333)
+
